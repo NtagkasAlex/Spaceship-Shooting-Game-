@@ -1,2 +1,2 @@
 # Spaceship-Shooting-Game-
-The 
+The objective
